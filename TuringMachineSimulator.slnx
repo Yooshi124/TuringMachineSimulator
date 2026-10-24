@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TuringMachineSimulator.Tests/TuringMachineSimulator.Tests.csproj" />
+  <Project Path="TuringMachineSimulator/TuringMachineSimulator.csproj" />
+</Solution>
